@@ -68,12 +68,10 @@ metrics= accuracy<br />
 ```
 	python process_data.py
 ```	
-4. To run backpropogation algorithm, run command 
+4. To run application, run command 
 ```
-	python backPropogation_algorithm py
+	python image_recognation_cnn.py py
 ```
-5. To run same program using scikit learn :
-```
-     python scitkit_learn_backpropogation_algo.py
+
 
 ```
