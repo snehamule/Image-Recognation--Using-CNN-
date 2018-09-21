@@ -22,11 +22,11 @@ If python is not installed then need to install python:<br />
 	python get-pip.py 
 
 **For windows operating system**<br />
-	refer steps from [windows python installation steps](https://docs.python.org/3/using/windows.html).
+	refer steps from [windows python installation steps](https://docs.python.org/3/using/windows.html).<br />
 	
 
 ## Check python version:
-python -version
+python -version<br />
 
 
 ## Install Libraries<br /> 
@@ -45,24 +45,24 @@ python -version
 
 ## Dataset Download :<br />
 This recommendation system use  Book-Crossing Dataset.
-Download Flower Dataset from kaggle [Flower Datset](https://www.kaggle.com/alxmamaev/flowers-recognition)
-         Fruits Dataset from kaggle [Fruits Datset] (https://www.kaggle.com/moltean/fruits/discussion/54011)
-         Natural images from kaggle [Natural Images Datset] (https://www.kaggle.com/prasunroy/natural-images)
-         Cats-Dog Dataset from kaggle [Cats-Dogs Datset] (https://www.kaggle.com/c/dogs-vs-cats)
+Download Flower Dataset from kaggle [Flower Datset](https://www.kaggle.com/alxmamaev/flowers-recognition)<br />
+         Fruits Dataset from kaggle [Fruits Datset] (https://www.kaggle.com/moltean/fruits/discussion/54011)<br />
+         Natural images from kaggle [Natural Images Datset] (https://www.kaggle.com/prasunroy/natural-images)<br />
+         Cats-Dog Dataset from kaggle [Cats-Dogs Datset] (https://www.kaggle.com/c/dogs-vs-cats)<br />
 
 ## Parameter Selected:<br />
-image_size =150
-class_mode= Categorical
-batch_size =16
-Activation function = relu
-Dropout =0.5
-Fully connected layer activation = softmax
-optimizer=adam
-loss= categorical_crossentropy
-metrics= accuracy
+image_size =150<br />
+class_mode= Categorical<br />
+batch_size =16<br />
+Activation function = relu<br />
+Dropout =0.5<br />
+Fully connected layer activation = softmax<br />
+optimizer=adam<br />
+loss= categorical_crossentropy<br />
+metrics= accuracy<br />
 
 ## Run program : <br />
-1. Download code from git  using  git clone .
+1. Download code from git  using  git clone.
 2. Place downloaded dataset files in the same folder
 3. For Process the Data run command 
 ```
