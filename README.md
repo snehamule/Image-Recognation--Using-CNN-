@@ -11,7 +11,7 @@ To avoid overfitting used validation set and dropout = 0.5<br />
 Python, Keras,Numpy, matplotlib
 
 ## Setup required:<br />
-python version: 3 or greater<br />
+Python version: 3 or greater<br />
 Libraries : Keras, Numpy,matplotlib
 
 
@@ -52,15 +52,15 @@ Cats-Dogs Dataset from kaggle [Cats-Dogs Datset](https://www.kaggle.com/c/dogs-v
 
 
 ## Parameter Selected:<br />
-* image_size =150<br />
-* class_mode= Categorical<br />
-* batch_size =16<br />
+* Image_size =150<br />
+* Class_mode= Categorical<br />
+* Batch_size =16<br />
 * Activation function = relu<br />
 * Dropout =0.5<br />
 * Fully connected layer activation = softmax<br />
-* optimizer=adam<br />
-* loss= categorical_crossentropy<br />
-* metrics= accuracy<br />
+* Optimizer=adam<br />
+* Loss= categorical_crossentropy<br />
+* Metrics= accuracy<br />
 
 ## Run program : <br />
 1. Download code from git  using  git clone.
