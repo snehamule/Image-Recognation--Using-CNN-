@@ -48,7 +48,7 @@ This Image recognation application used following Dataset.<br />
 Flower Dataset from kaggle [Flower Datset](https://www.kaggle.com/alxmamaev/flowers-recognition)<br />
 Fruits Dataset from kaggle [Fruits Datset](https://www.kaggle.com/moltean/fruits/discussion/54011)<br />
 Natural images from kaggle [Natural Images Datset](https://www.kaggle.com/prasunroy/natural-images)<br />
-Flower Dataset from kaggle [Cats-Dogs Datset](https://www.kaggle.com/c/dogs-vs-cats)<br />
+Cats-Dogs Dataset from kaggle [Cats-Dogs Datset](https://www.kaggle.com/c/dogs-vs-cats)<br />
 
 
 ## Parameter Selected:<br />
