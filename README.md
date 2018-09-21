@@ -27,9 +27,6 @@ the value passes through the function, it squeezes the value according to the ac
 function. For instance sigmoid activation function squeezes between 1 or 0, tanh
 activation function squeezes value between 1 and -1, relu activation function squeezes
 value 1 or 0.<br />
-![Alt text](https://www.google.com/search?rlz=1C5CHFA_enUS775US775&biw=1440&bih=790&tbm=isch&sa=1&ei=OkmkW7PsHdGt0PEP_vGBmA4&q=convolutional+neural+network+architecture&oq=convolutional+neural+network+arc&gs_l=img.3.0.0l2j0i24l8.1861.2284..3263...0.0..0.60.168.3......1....1..gws-wiz-img.BuDVoav1WCk#imgrc=RSyJWTrg8ZkGDM: "Optional title")
-![Convolution Neural Network Diagram] (https://www.google.com/search?rlz=1C5CHFA_enUS775US775&biw=1440&bih=790&tbm=isch&sa=1&ei=OkmkW7PsHdGt0PEP_vGBmA4&q=convolutional+neural+network+architecture&oq=convolutional+neural+network+arc&gs_l=img.3.0.0l2j0i24l8.1861.2284..3263...0.0..0.60.168.3......1....1..gws-wiz-img.BuDVoav1WCk#imgrc=RSyJWTrg8ZkGDM:)
-
 
 ## Technology / libraries used: <br />
 Python, Keras,Numpy, matplotlib
