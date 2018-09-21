@@ -51,27 +51,20 @@ Download Flower Dataset from kaggle [Flower Datset](https://www.kaggle.com/alxma
          Cats-Dog Dataset from kaggle [Cats-Dogs Datset] (https://www.kaggle.com/c/dogs-vs-cats)<br />
 
 ## Parameter Selected:<br />
-image_size =150<br />
-class_mode= Categorical<br />
-batch_size =16<br />
-Activation function = relu<br />
-Dropout =0.5<br />
-Fully connected layer activation = softmax<br />
-optimizer=adam<br />
-loss= categorical_crossentropy<br />
-metrics= accuracy<br />
+* image_size =150<br />
+* class_mode= Categorical<br />
+* batch_size =16<br />
+* Activation function = relu<br />
+* Dropout =0.5<br />
+* Fully connected layer activation = softmax<br />
+* optimizer=adam<br />
+* loss= categorical_crossentropy<br />
+* metrics= accuracy<br />
 
 ## Run program : <br />
 1. Download code from git  using  git clone.
 2. Place downloaded dataset files in the same folder
-3. For Process the Data run command 
-```
-	python process_data.py
-```	
-4. To run application, run command 
+3. To run application, run command 
 ```
 	python image_recognation_cnn.py py
-```
-
-
 ```
