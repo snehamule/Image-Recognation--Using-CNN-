@@ -6,6 +6,28 @@ Trained neural network with 10K images, and also considered different angles for
 Accuracy on testing data is 98.78%.<br />
 To avoid overfitting used validation set and dropout = 0.5<br />
 
+## Convolutional neural network:
+Convolutional neural network:
+A convolutional neural network contains several layers, first convolutional layer, then
+pooling layer then activation layer.
+Convolution neural network extract features from the images and learn about the image.
+### Convolutional layer:
+To understand convolutional layer, consider 5*5 image and take 2*2 matrix which is
+called filter slide it that image. When we slide filter from the image then a matrix of the
+image multiply with filter, and summation of it produce a single number for a particular
+window of image and filter.
+
+### Pooling Layer:
+There are commonly two types of pooling, max pooling, and average pooling. Max pooling
+takes the large value of the window of the image which is cover by the filter. Average
+pooling takes the average value of window of the image which is cover by the filter
+### Activation layer:
+The activation function is similar to activation function other neural networks use. When
+the value passes through the function, it squeezes the value according to the activation
+function. For instance sigmoid activation function squeezes between 1 or 0, tanh
+activation function squeezes value between 1 and -1, relu activation function squeezes
+value 1 or 0.
+
 
 ## Technology / libraries used: <br />
 Python, Keras,Numpy, matplotlib
