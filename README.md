@@ -27,7 +27,7 @@ the value passes through the function, it squeezes the value according to the ac
 function. For instance sigmoid activation function squeezes between 1 or 0, tanh
 activation function squeezes value between 1 and -1, relu activation function squeezes
 value 1 or 0.
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 ## Technology / libraries used: <br />
 Python, Keras,Numpy, matplotlib
